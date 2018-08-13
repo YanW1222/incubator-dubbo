@@ -29,6 +29,7 @@ import java.util.List;
 /**
  * AbstractRegistryTest
  */
+
 public class AbstractRegistryTest {
 
     private URL testUrl;
